@@ -67,6 +67,7 @@ class ChirpController extends Controller
      */
     public function update(Request $request, Chirp $chirp): RedirectResponse
     {
+        // By default, the authorize method will prevent everyone from being able to update the Chirp. We can specify who is allowed to update it by creating a Model Policy
         $this->authorize('update', $chirp);
 
         $validated = $request->validate([
