@@ -2,7 +2,7 @@
 
 ## The project idea
 
-This project is a modern microblogging platform, GioChirp, developed based in the tutorial in [Laravel Bootcamp](https://bootcamp.laravel.com/).
+This project is a modern microblogging platform, GioChirps, developed based in the tutorial in [Laravel Bootcamp](https://bootcamp.laravel.com/).
 
 One can create an account, post and edit their thoughts and receive e-mail notification when other users share messages.
 
