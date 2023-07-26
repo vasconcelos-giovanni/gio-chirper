@@ -1,12 +1,17 @@
 # GioChirps
 
-## The project idea
+## 📌  Project idea
 
 This project is a modern microblogging platform, GioChirps, developed based in the tutorial in [Laravel Bootcamp](https://bootcamp.laravel.com/).
 
 One can create an account, post and edit their thoughts and receive e-mail notification when other users share messages.
 
-## Technologies
+## 💡 Key Features:
+✅ User accounts with authentication and registration.
+✅ Create, edit, and share your thoughts with other users.
+✅ Get email notifications when others interact with your posts.
+
+## 🔧 Technologies
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
@@ -16,15 +21,19 @@ One can create an account, post and edit their thoughts and receive e-mail notif
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Development
+## 🏗️ Development Details
 
-It was built in the MVC model using Inertia to bind Laravel and Vue.js, with the login system made with Laravel Breeze.
+The project follows the MVC model, leveraging the Inertia framework to seamlessly integrate Laravel and Vue.js. The login system was implemented using Laravel Breeze, providing a smooth user experience.
 
-## My learning
+## 📚 My learning Journey
 
-I have worked for the first time with e-mail notifications and mail-trapping, back-end events and event listeners, middlewares, policies, TailwindCSS.
+Throughout this project, I had the opportunity to explore new concepts and technologies:
+📌 E-mail notifications and mail-trapping for seamless user communication.
+📌 Back-end events and event listeners to handle various interactions.
+📌 Middlewares to enhance the application's security and control flow.
+📌 Leveraging Tailwind CSS to craft a stunning and responsive UI.
 
-# Screenshots
+# 🖼️ Screenshots
 
 ![Home](/readme/img/screenshots/1.png)
 ![Registering](/readme/img/screenshots/2.png)
