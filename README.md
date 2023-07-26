@@ -6,7 +6,9 @@ GioChirp is a microblogging platform that allows users to share their thoughts a
 
 ## 💡 Key Features:
 ✅ User accounts with authentication and registration.
+
 ✅ Create, edit, and share your thoughts with other users.
+
 ✅ Get email notifications when others interact with your posts.
 
 ## 🔧 Technologies
@@ -26,17 +28,27 @@ The project follows the MVC model, leveraging the Inertia framework to seamlessl
 ## 📚 My learning Journey
 
 Throughout this project, I had the opportunity to explore new concepts and technologies:
+
 📌 E-mail notifications and mail-trapping for seamless user communication.
+
 📌 Back-end events and event listeners to handle various interactions.
+
 📌 Middlewares to enhance the application's security and control flow.
+
 📌 Leveraging Tailwind CSS to craft a stunning and responsive UI.
 
 # 🖼️ Screenshots
 
 ![Home](/readme/img/screenshots/1.png)
+
 ![Registering](/readme/img/screenshots/2.png)
+
 ![Logging in](/readme/img/screenshots/3.png)
+
 ![Posting message](/readme/img/screenshots/4.png)
+
 ![Editing message](/readme/img/screenshots/5.png)
+
 ![Saving message](/readme/img/screenshots/6.png)
+
 ![Feed](/readme/img/screenshots/7.png)
