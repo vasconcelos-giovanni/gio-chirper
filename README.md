@@ -23,3 +23,13 @@ It was built in the MVC model using Inertia to bind Laravel and Vue.js, with the
 ## My learning
 
 I have worked for the first time with e-mail notifications and mail-trapping, back-end events and event listeners, middlewares, policies, TailwindCSS.
+
+# Screenshots
+
+![Home](/readme/img/screenshots/1.png)
+![Registering](/readme/img/screenshots/2.png)
+![Logging in](/readme/img/screenshots/3.png)
+![Posting message](/readme/img/screenshots/4.png)
+![Editing message](/readme/img/screenshots/5.png)
+![Saving message](/readme/img/screenshots/6.png)
+![Feed](/readme/img/screenshots/7.png)
