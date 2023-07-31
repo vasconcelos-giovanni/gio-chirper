@@ -4,7 +4,8 @@
 
 GioChirp is a microblogging platform that allows users to share their thoughts and ideas. I developed this platform based on the tutorial from [Laravel Bootcamp](https://bootcamp.laravel.com/), and it turned out to be an amazing learning experience!
 
-## 💡 Key Features:
+## 💡 Key Features
+
 ✅ User accounts with authentication and registration.
 
 ✅ Create, edit, and share your thoughts with other users.
