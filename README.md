@@ -17,7 +17,7 @@ GioChirp is a microblogging platform that allows users to share their thoughts a
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🏗️ Development Details
 
@@ -34,6 +34,12 @@ Throughout this project, I had the opportunity to explore new concepts and techn
 📌 Middlewares to enhance the application's security and control flow.
 
 📌 Leveraging Tailwind CSS to craft a stunning and responsive UI.
+
+## 🎦 Video Showcase
+
+Check out the video on YouTube here:
+
+[![GioChirps video showcase](https://i9.ytimg.com/vi_webp/v1Sz-g6clcw/mq1.webp?sqp=CKjXq6YG-oaymwEmCMACELQB8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCal5NjjXsibQ8sBPuFsi-rnlQXhg)](https://youtu.be/v1Sz-g6clcw)
 
 # 🖼️ Screenshots
 
