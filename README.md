@@ -41,7 +41,7 @@ Check out the video on YouTube here:
 
 [![GioChirps video showcase](https://i9.ytimg.com/vi_webp/v1Sz-g6clcw/mq1.webp?sqp=CKjXq6YG-oaymwEmCMACELQB8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCal5NjjXsibQ8sBPuFsi-rnlQXhg)](https://youtu.be/v1Sz-g6clcw)
 
-# 🖼️ Screenshots
+## 🖼️ Screenshots
 
 ![Home](/readme/img/screenshots/1.png)
 
